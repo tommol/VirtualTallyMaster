@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualTallyMaster.Server", "VirtualTallyMaster.Server\VirtualTallyMaster.Server.csproj", "{69CD0750-6C05-4F97-94FF-E04ED23EC1F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualTallyMaster.Prompter", "VirtualTallyMaster.Prompter\VirtualTallyMaster.Prompter.csproj", "{CEA96426-7732-4824-9426-B235D25C9D5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualTallyMaster.Live", "VirtualTallyMaster.Live\VirtualTallyMaster.Live.csproj", "{36998426-4BD0-456F-A87F-21D89F661EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualTallyMaster.VotingBooth", "VirtualTallyMaster.VotingBooth\VirtualTallyMaster.VotingBooth.csproj", "{41363524-F33E-4B87-9372-106008E61BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualTallyMaster.Shared", "VirtualTallyMaster.Shared\VirtualTallyMaster.Shared.csproj", "{D1682633-CEBF-4763-8D07-C0B51A849CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualTallyMaster.Producer", "VirtualTallyMaster.Producer\VirtualTallyMaster.Producer.csproj", "{7034561D-2E6B-46A1-925D-39BC5FC98337}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69CD0750-6C05-4F97-94FF-E04ED23EC1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CD0750-6C05-4F97-94FF-E04ED23EC1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CD0750-6C05-4F97-94FF-E04ED23EC1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CD0750-6C05-4F97-94FF-E04ED23EC1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA96426-7732-4824-9426-B235D25C9D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA96426-7732-4824-9426-B235D25C9D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA96426-7732-4824-9426-B235D25C9D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA96426-7732-4824-9426-B235D25C9D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36998426-4BD0-456F-A87F-21D89F661EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36998426-4BD0-456F-A87F-21D89F661EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36998426-4BD0-456F-A87F-21D89F661EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36998426-4BD0-456F-A87F-21D89F661EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41363524-F33E-4B87-9372-106008E61BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41363524-F33E-4B87-9372-106008E61BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41363524-F33E-4B87-9372-106008E61BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41363524-F33E-4B87-9372-106008E61BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1682633-CEBF-4763-8D07-C0B51A849CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1682633-CEBF-4763-8D07-C0B51A849CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1682633-CEBF-4763-8D07-C0B51A849CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1682633-CEBF-4763-8D07-C0B51A849CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7034561D-2E6B-46A1-925D-39BC5FC98337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7034561D-2E6B-46A1-925D-39BC5FC98337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7034561D-2E6B-46A1-925D-39BC5FC98337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7034561D-2E6B-46A1-925D-39BC5FC98337}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
